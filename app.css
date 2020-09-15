@@ -1,0 +1,44 @@
+.text-space {
+    margin: 10px
+}
+
+.padding-top {
+    padding-top: 40px;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+
+.border-shape {
+    border-right: 50%;
+    background-color: aliceblue;
+}
+
+.custom-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.vertical-alignment {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+
+.horizontal-alignment {
+    display: flex;
+    justify-content: space-between;
+}
+
+.centre-setting {
+    display: flex;
+   align-items: center;
+}
+
+.jumbotron-fluid-grey {
+    background: grey;
+}
